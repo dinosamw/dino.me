@@ -6,10 +6,10 @@ import { useLocale } from '@/lib/locale'
 const NavBar = () => {
   const locale = useLocale()
   const links = [
-    { id: 0, name: locale.NAV.INDEX, to: BLOG.path || '/', show: true },
-    { id: 1, name: locale.NAV.RSS, to: '/poems', show: BLOG.showAbout },
-    { id: 2, name: locale.NAV.SEARCH, to: '/photos', show: true },
-    { id: 3, name: locale.NAV.ABOUT, to: '/music', show: true }
+    { id: 0, name: locale.NAV.Home, to: BLOG.path || '/', show: true },
+    { id: 1, name: locale.NAV.Poems, to: '/poems', show: true },
+    { id: 2, name: locale.NAV.Photos, to: '/photos', show: true },
+    { id: 3, name: locale.NAV.Music, to: '/music', show: true },
     { id: 4, name: locale.NAV.Tools, to: '/tools', show: true }
   ]
   return (

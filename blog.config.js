@@ -1,6 +1,6 @@
 const BLOG = {
   title: 'Dinosamw',
-  author: 'Dinon',
+  author: 'Dino',
   email: 'dinosamw@gmail.com',
   link: 'https://www.notion.so/dinosamw/4df7af6309fa4fcf832a185c8c76edb5?v=19d641307af4472ba3f5e134fdea1944',
   description: 'This gonna be an awesome website.',

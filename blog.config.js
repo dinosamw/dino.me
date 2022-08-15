@@ -4,7 +4,7 @@ const BLOG = {
   email: 'dinosamw@gmail.com',
   link: 'https://www.notion.so/dinosamw/4df7af6309fa4fcf832a185c8c76edb5?v=19d641307af4472ba3f5e134fdea1944',
   description: 'This gonna be an awesome website.',
-  lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
+  lang: 'zh-HK', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'light', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
   lightBackground: '#ffffff', // use hex value, don't forget '#' e.g #fffefc

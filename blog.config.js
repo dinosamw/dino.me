@@ -1,8 +1,8 @@
 const BLOG = {
   title: 'Dinosamw',
-  author: 'Dean',
+  author: 'Dinon',
   email: 'dinosamw@gmail.com',
-  link: 'https://dinosamw.notion.site/277f46aa46e84e359480c519f15f28f2',
+  link: 'https://www.notion.so/dinosamw/4df7af6309fa4fcf832a185c8c76edb5?v=19d641307af4472ba3f5e134fdea1944',
   description: 'This gonna be an awesome website.',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'light', // ['light', 'dark', 'auto'],
